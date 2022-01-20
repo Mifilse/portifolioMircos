@@ -1,0 +1,49 @@
+
+/*Toda a parte das divisôes dos trabalhos em geral e a parte scan*/
+html {
+    background-color: #300070;
+    font-family: courier;
+    color: #448F06;
+    
+}
+#scann {text-align: center;
+font-size: 50px;
+    padding: 100px
+    ;
+
+}
+#trab1 {
+    padding: 1px;
+    color: #448F06;
+}
+#trab3 {
+    padding: 1px;
+    color: #448F06;
+    
+}
+h1 {font-size-adjust: 50px}
+
+/*parte específica do trabalho 1 */
+.img1 {border: 10px;
+padding: 10px;
+   border-image: 10px;
+   
+}
+#pg1 {color: #448F06;
+text-align: center;
+font-size: 50px;}
+#ae1 {margin: 10px 5px 50px 10px;}
+/*parte específica do trabalho 3*/
+.img2 {;
+padding: 10px;
+   
+   
+}
+#pg2 {color: #448F06;
+text-align: center;
+font-size: 50px;}
+
+/*Explicação do conteúdo*/
+#ec {font-size: 25;
+text-align: center;
+}

@@ -1,0 +1,80 @@
+/*fiz cada um dos links separados do outro, para futuramente poder operar em cada um separadamente*/
+html {
+    background-color: #045042;
+    font-family: courier;
+    
+}
+#if {font-size: 20;
+text-align: center}
+h1 {
+    color:#300070;
+    font-size: 75px;
+    padding-top: 50px;
+    border:10px; 
+    margin:20px;
+    margin-bottom: 5px;
+    border-radius: 30px; 
+    
+}
+
+h3 {
+    color: #300070;
+    border:10px; 
+    margin:15px;
+    padding-bottom: 30px;
+   font-size: 30px;
+    border-radius: 30px; 
+    
+}
+#scanners {
+     color: #300070;
+    border:20px; 
+    margin:40px;
+   font-size: 50px;
+    border-radius: 30px; 
+    padding: 1px;
+   
+    
+}
+#dificuldade {
+       color: #300076;
+    border:20px; 
+    margin:40px;
+   font-size: 50px;
+    border-radius: 30px; 
+    padding: 1px;
+   
+}
+#sujestao {
+       color: #300070;
+    border:20px; 
+    margin:40px;
+   font-size: 50px;
+    border-radius: 30px; 
+    padding: 1px;
+  
+}
+#auto {
+       color: #300070;
+    border:20px; 
+    margin:40px;
+   font-size: 50px; 
+    padding: 1px;
+    
+}
+#tint {
+color:#300070;
+    font-size: 30px;
+    padding-top: 50px;
+    border:10px; 
+    margin:20px;
+    border-radius: 30px; 
+}
+#int {
+color:#300070;
+    font-size: 20px;
+    padding-bottom: 50px;
+    border:10px; 
+    margin:20px;
+    border-radius: 30px; 
+}
